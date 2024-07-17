@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm an enthusiastic ethical hacker and programmer 
 ## Education
 
 - 🎓 Pursuing a Bachelor's in Computer Science from J.S College of Education, Kusmara, Mainpuri, affiliated with Dr. Bhimrao Ambedkar University, Agra.
-- 🏫 Completed Higher Secondary School with a focus on Math, English, Physics, Chemistry, and Computer Science.
+- 🏫 Completed Higher Secondary School with a focus on Math, English, Physics, Chemistry .
 
 ## Projects
 
